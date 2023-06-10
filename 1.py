@@ -23,3 +23,4 @@ def strcounter(s): #O(N) - линейная, скок символов - нап�
     for sym, count in syms_counter.items():
         print(sym, count)
 strcounter('adadaad')
+print(12132)
